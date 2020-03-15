@@ -34,3 +34,7 @@ C:\Users\seth\Desktop\Work\BerniesBurgers\BerniesBurgers\BerniesBurgers\obj\Debu
 C:\Users\seth\Desktop\Work\BerniesBurgers\BerniesBurgers\BerniesBurgers\obj\Debug\netcoreapp3.1\BerniesBurgers.pdb
 C:\Users\seth\Desktop\Work\BerniesBurgers\BerniesBurgers\BerniesBurgers\obj\Debug\netcoreapp3.1\BerniesBurgers.csproj.CopyComplete
 C:\Users\seth\Desktop\Work\BerniesBurgers\BerniesBurgers\BerniesBurgers\obj\Debug\netcoreapp3.1\Razor\Pages\Burgers\List.cshtml.g.cs
+C:\Users\seth\Desktop\Work\BerniesBurgers\BerniesBurgers\BerniesBurgers\bin\Debug\netcoreapp3.1\BerniesBurgers.Core.dll
+C:\Users\seth\Desktop\Work\BerniesBurgers\BerniesBurgers\BerniesBurgers\bin\Debug\netcoreapp3.1\BerniesBurgers.Data.dll
+C:\Users\seth\Desktop\Work\BerniesBurgers\BerniesBurgers\BerniesBurgers\bin\Debug\netcoreapp3.1\BerniesBurgers.Data.pdb
+C:\Users\seth\Desktop\Work\BerniesBurgers\BerniesBurgers\BerniesBurgers\bin\Debug\netcoreapp3.1\BerniesBurgers.Core.pdb

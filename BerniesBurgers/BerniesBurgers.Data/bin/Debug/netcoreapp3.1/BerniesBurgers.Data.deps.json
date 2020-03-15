@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BerniesBurgers.Data/1.0.0": {
+        "dependencies": {
+          "BerniesBurgers.Core": "1.0.0"
+        },
+        "runtime": {
+          "BerniesBurgers.Data.dll": {}
+        }
+      },
+      "BerniesBurgers.Core/1.0.0": {
+        "runtime": {
+          "BerniesBurgers.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BerniesBurgers.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BerniesBurgers.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,4 +1,5 @@
 ﻿@page
+@using BerniesBurgers.Core
 @model BerniesBurgers.Pages.Burgers.ListModel
 
 @{
@@ -7,4 +8,14 @@
 
 <h1>Our Famous Burgers</h1>
 
-@Model.Message
+<table class="table">
+    @foreach (var burger in Model.Burgers)
+    {
+        <tr>
+            <td>@burger.Name</td>
+            <td>@burger.Price</td>
+            <td>@burger.Toppings</td>
+        </tr>
+    }
+</table>
+<div>@Model.Message</div>
