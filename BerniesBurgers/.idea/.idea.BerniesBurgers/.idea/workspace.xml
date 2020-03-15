@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a8cb185-27dd-4800-a3bd-8b7d98bcdcd9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers.Core/BerniesBurgers.Core.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers.Core/Burger.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers.Core/Toppings.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers.Core/obj/BerniesBurgers.Core.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers.Core/obj/BerniesBurgers.Core.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers.Core/obj/BerniesBurgers.Core.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers.Core/obj/BerniesBurgers.Core.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers.Core/obj/Debug/netcoreapp3.1/BerniesBurgers.Core.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers.Core/obj/Debug/netcoreapp3.1/BerniesBurgers.Core.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers.Core/obj/Debug/netcoreapp3.1/BerniesBurgers.Core.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers.Core/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers.Core/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers.Data/BerniesBurgers.Data.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers.Data/IBurgerData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BerniesBurgers/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BerniesBurgers/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BerniesBurgers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BerniesBurgers/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BerniesBurgers.sln" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/List.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/List.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/List.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/List.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BerniesBurgers/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/BerniesBurgers.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/BerniesBurgers.Views.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/BerniesBurgers.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/BerniesBurgers.Views.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/BerniesBurgers.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/BerniesBurgers.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/BerniesBurgers.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/BerniesBurgers.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.Views.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.Views.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/Razor/Pages/Burgers/List.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/Razor/Pages/Burgers/List.cshtml.g.cs" afterDir="false" />
-    </list>
+    <list default="true" id="4a8cb185-27dd-4800-a3bd-8b7d98bcdcd9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +32,7 @@
     <setting file="file://$PROJECT_DIR$/BerniesBurgers/Pages/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BerniesBurgers/appsettings.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BerniesBurgers.Data/IBurgerData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BerniesBurgers/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BerniesBurgers/Pages/Privacy.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -141,7 +111,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584275140347</updated>
-      <workItem from="1584275141871" duration="2495000" />
+      <workItem from="1584275141871" duration="2821000" />
     </task>
     <servers />
   </component>

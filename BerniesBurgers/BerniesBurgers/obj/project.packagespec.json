@@ -18,7 +18,11 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "projectReferences": {}
+        "projectReferences": {
+          "C:\\Users\\seth\\Desktop\\Work\\BerniesBurgers\\BerniesBurgers\\BerniesBurgers.Data\\BerniesBurgers.Data.csproj": {
+            "projectPath": "C:\\Users\\seth\\Desktop\\Work\\BerniesBurgers\\BerniesBurgers\\BerniesBurgers.Data\\BerniesBurgers.Data.csproj"
+          }
+        }
       }
     },
     "warningProperties": {
