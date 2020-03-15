@@ -103,6 +103,31 @@
           </e>
         </e>
       </e>
+      <e p="BerniesBurgers.Core" t="IncludeRecursive">
+        <e p="BerniesBurgers.Core.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Burger.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="BerniesBurgers.Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Toppings.cs" t="Include" />
+      </e>
+      <e p="BerniesBurgers.Data" t="IncludeRecursive">
+        <e p="BerniesBurgers.Data.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="IBurgerData.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="BerniesBurgers.Data.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
       <e p="BerniesBurgers.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
     </e>

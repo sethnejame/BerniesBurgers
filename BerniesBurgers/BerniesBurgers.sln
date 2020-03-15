@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BerniesBurgers", "BerniesBurgers\BerniesBurgers.csproj", "{7D914C59-EBEF-4283-B1C9-3DB49BF3F713}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BerniesBurgers.Core", "BerniesBurgers.Core\BerniesBurgers.Core.csproj", "{D6825DA0-8A82-47E6-A6EF-C03A44F5AB4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BerniesBurgers.Data", "BerniesBurgers.Data\BerniesBurgers.Data.csproj", "{B652DD01-FB1E-4BFB-9F7A-992B64427F6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{7D914C59-EBEF-4283-B1C9-3DB49BF3F713}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D914C59-EBEF-4283-B1C9-3DB49BF3F713}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D914C59-EBEF-4283-B1C9-3DB49BF3F713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6825DA0-8A82-47E6-A6EF-C03A44F5AB4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6825DA0-8A82-47E6-A6EF-C03A44F5AB4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6825DA0-8A82-47E6-A6EF-C03A44F5AB4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6825DA0-8A82-47E6-A6EF-C03A44F5AB4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B652DD01-FB1E-4BFB-9F7A-992B64427F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B652DD01-FB1E-4BFB-9F7A-992B64427F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B652DD01-FB1E-4BFB-9F7A-992B64427F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B652DD01-FB1E-4BFB-9F7A-992B64427F6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

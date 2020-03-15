@@ -2,51 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a8cb185-27dd-4800-a3bd-8b7d98bcdcd9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.BerniesBurgers/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/List.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/List.cshtml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/BerniesBurgers.Views.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/BerniesBurgers.Views.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/BerniesBurgers.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/BerniesBurgers.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/BerniesBurgers.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/BerniesBurgers.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/BerniesBurgers.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/BerniesBurgers.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.MvcApplicationPartsAssemblyInfo.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.RazorCoreGenerate.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.RazorTargetAssemblyInfo.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.RazorTargetAssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.TagHelpers.input.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.TagHelpers.output.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.Views.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.Views.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/Razor/Pages/Index.cshtml.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/Razor/Pages/Privacy.cshtml.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_Layout.cshtml.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/staticwebassets/BerniesBurgers.StaticWebAssets.Manifest.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/staticwebassets/BerniesBurgers.StaticWebAssets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BerniesBurgers.Core/BerniesBurgers.Core.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BerniesBurgers.Core/Burger.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BerniesBurgers.Core/Toppings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BerniesBurgers.Core/obj/BerniesBurgers.Core.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BerniesBurgers.Core/obj/BerniesBurgers.Core.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BerniesBurgers.Core/obj/BerniesBurgers.Core.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BerniesBurgers.Core/obj/BerniesBurgers.Core.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BerniesBurgers.Core/obj/Debug/netcoreapp3.1/BerniesBurgers.Core.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BerniesBurgers.Core/obj/Debug/netcoreapp3.1/BerniesBurgers.Core.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BerniesBurgers.Core/obj/Debug/netcoreapp3.1/BerniesBurgers.Core.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BerniesBurgers.Core/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BerniesBurgers.Core/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BerniesBurgers.Data/BerniesBurgers.Data.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BerniesBurgers.Data/IBurgerData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BerniesBurgers/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BerniesBurgers/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BerniesBurgers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BerniesBurgers/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BerniesBurgers/Pages/Privacy.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/Pages/Privacy.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BerniesBurgers/Pages/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/Pages/Shared/_Layout.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers.sln" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/List.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/List.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/List.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/List.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/BerniesBurgers.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/BerniesBurgers.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/BerniesBurgers.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/BerniesBurgers.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/BerniesBurgers.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/BerniesBurgers.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/BerniesBurgers.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/BerniesBurgers.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/Razor/Pages/Burgers/List.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/Razor/Pages/Burgers/List.cshtml.g.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -54,16 +58,25 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/List.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/List.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BerniesBurgers.Core/Burger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BerniesBurgers.Core/Toppings.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BerniesBurgers/Pages/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BerniesBurgers/appsettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BerniesBurgers.Data/IBurgerData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BerniesBurgers/Pages/Privacy.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/BerniesBurgers/Pages/Privacy.cshtml" />
+        <option value="$PROJECT_DIR$/BerniesBurgers/appsettings.json" />
+        <option value="$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/List.cshtml" />
         <option value="$PROJECT_DIR$/BerniesBurgers/Pages/Shared/_Layout.cshtml" />
         <option value="$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/List.cshtml.cs" />
-        <option value="$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/List.cshtml" />
+        <option value="$PROJECT_DIR$/BerniesBurgers.Core/Class1.cs" />
+        <option value="$PROJECT_DIR$/BerniesBurgers.Core/Toppings.cs" />
+        <option value="$PROJECT_DIR$/BerniesBurgers.Data/Class1.cs" />
+        <option value="$PROJECT_DIR$/BerniesBurgers.Data/IBurgerData.cs" />
       </list>
     </option>
   </component>
@@ -128,7 +141,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584275140347</updated>
-      <workItem from="1584275141871" duration="640000" />
+      <workItem from="1584275141871" duration="2495000" />
     </task>
     <servers />
   </component>
@@ -152,21 +165,29 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="902" height="265" key="GridCell.Tab.0.bottom" timestamp="1584275791892">
+    <state width="900" height="265" key="GridCell.Tab.0.bottom" timestamp="1584295665668">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="902" height="265" key="GridCell.Tab.0.bottom/-1920.7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584275791892" />
-    <state width="902" height="265" key="GridCell.Tab.0.center" timestamp="1584275791892">
+    <state width="900" height="265" key="GridCell.Tab.0.bottom/-1920.7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584295665668" />
+    <state width="900" height="265" key="GridCell.Tab.0.center" timestamp="1584295665668">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="902" height="265" key="GridCell.Tab.0.center/-1920.7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584275791892" />
-    <state width="902" height="265" key="GridCell.Tab.0.left" timestamp="1584275791892">
+    <state width="900" height="265" key="GridCell.Tab.0.center/-1920.7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584295665668" />
+    <state width="900" height="265" key="GridCell.Tab.0.left" timestamp="1584295665668">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="902" height="265" key="GridCell.Tab.0.left/-1920.7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584275791892" />
-    <state width="902" height="265" key="GridCell.Tab.0.right" timestamp="1584275791892">
+    <state width="900" height="265" key="GridCell.Tab.0.left/-1920.7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584295665668" />
+    <state width="900" height="265" key="GridCell.Tab.0.right" timestamp="1584295665668">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="902" height="265" key="GridCell.Tab.0.right/-1920.7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584275791892" />
+    <state width="900" height="265" key="GridCell.Tab.0.right/-1920.7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584295665668" />
+    <state x="904" y="185" key="Rider.ProjectTemplateDialog.Size" timestamp="1584296665508">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="904" y="185" key="Rider.ProjectTemplateDialog.Size/-1920.7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584296665508" />
+    <state x="1019" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1584295407641">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1019" y="5" width="840" height="1034" key="search.everywhere.popup/-1920.7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584295407641" />
   </component>
 </project>
