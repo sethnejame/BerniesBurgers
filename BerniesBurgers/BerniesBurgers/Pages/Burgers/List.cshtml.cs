@@ -2,6 +2,7 @@
 using BerniesBurgers.Core;
 using BerniesBurgers.Data;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Configuration;
 
@@ -11,6 +12,9 @@ namespace BerniesBurgers.Pages.Burgers
     {
         public string Message { get; set; }
         public IEnumerable<Burger> Burgers { get; set; }
+        
+        [BindProperty(SupportsGet = true)]
+        public string SearchTerm { get; set; }
 
         private readonly IConfiguration config;
         private readonly IBurgerData burgerData;
@@ -20,11 +24,10 @@ namespace BerniesBurgers.Pages.Burgers
             this.burgerData = burgerData;
             this.config = config;
         }
-        public void OnGet(string searchTerm)
+        public void OnGet()
         {
-            
             Message = config["Message"];
-            Burgers = burgerData.GetBurgersByName(searchTerm);
+            Burgers = burgerData.GetBurgersByName(SearchTerm);
         }
     }
 }
