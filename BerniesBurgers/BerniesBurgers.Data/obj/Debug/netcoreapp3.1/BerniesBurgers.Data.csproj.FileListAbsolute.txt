@@ -9,3 +9,14 @@ C:\Users\seth\Desktop\Work\BerniesBurgers\BerniesBurgers\BerniesBurgers.Data\obj
 C:\Users\seth\Desktop\Work\BerniesBurgers\BerniesBurgers\BerniesBurgers.Data\obj\Debug\netcoreapp3.1\BerniesBurgers.Data.csproj.CopyComplete
 C:\Users\seth\Desktop\Work\BerniesBurgers\BerniesBurgers\BerniesBurgers.Data\obj\Debug\netcoreapp3.1\BerniesBurgers.Data.dll
 C:\Users\seth\Desktop\Work\BerniesBurgers\BerniesBurgers\BerniesBurgers.Data\obj\Debug\netcoreapp3.1\BerniesBurgers.Data.pdb
+D:\Coding\BerniesBurgers\BerniesBurgers\BerniesBurgers.Data\bin\Debug\netcoreapp3.1\BerniesBurgers.Data.deps.json
+D:\Coding\BerniesBurgers\BerniesBurgers\BerniesBurgers.Data\bin\Debug\netcoreapp3.1\BerniesBurgers.Data.dll
+D:\Coding\BerniesBurgers\BerniesBurgers\BerniesBurgers.Data\bin\Debug\netcoreapp3.1\BerniesBurgers.Data.pdb
+D:\Coding\BerniesBurgers\BerniesBurgers\BerniesBurgers.Data\bin\Debug\netcoreapp3.1\BerniesBurgers.Core.dll
+D:\Coding\BerniesBurgers\BerniesBurgers\BerniesBurgers.Data\bin\Debug\netcoreapp3.1\BerniesBurgers.Core.pdb
+D:\Coding\BerniesBurgers\BerniesBurgers\BerniesBurgers.Data\obj\Debug\netcoreapp3.1\BerniesBurgers.Data.csprojAssemblyReference.cache
+D:\Coding\BerniesBurgers\BerniesBurgers\BerniesBurgers.Data\obj\Debug\netcoreapp3.1\BerniesBurgers.Data.AssemblyInfoInputs.cache
+D:\Coding\BerniesBurgers\BerniesBurgers\BerniesBurgers.Data\obj\Debug\netcoreapp3.1\BerniesBurgers.Data.AssemblyInfo.cs
+D:\Coding\BerniesBurgers\BerniesBurgers\BerniesBurgers.Data\obj\Debug\netcoreapp3.1\BerniesBurgers.Data.csproj.CopyComplete
+D:\Coding\BerniesBurgers\BerniesBurgers\BerniesBurgers.Data\obj\Debug\netcoreapp3.1\BerniesBurgers.Data.dll
+D:\Coding\BerniesBurgers\BerniesBurgers\BerniesBurgers.Data\obj\Debug\netcoreapp3.1\BerniesBurgers.Data.pdb

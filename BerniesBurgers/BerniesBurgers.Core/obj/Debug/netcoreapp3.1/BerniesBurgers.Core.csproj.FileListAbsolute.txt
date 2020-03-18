@@ -6,3 +6,11 @@ C:\Users\seth\Desktop\Work\BerniesBurgers\BerniesBurgers\BerniesBurgers.Core\obj
 C:\Users\seth\Desktop\Work\BerniesBurgers\BerniesBurgers\BerniesBurgers.Core\obj\Debug\netcoreapp3.1\BerniesBurgers.Core.AssemblyInfo.cs
 C:\Users\seth\Desktop\Work\BerniesBurgers\BerniesBurgers\BerniesBurgers.Core\obj\Debug\netcoreapp3.1\BerniesBurgers.Core.dll
 C:\Users\seth\Desktop\Work\BerniesBurgers\BerniesBurgers\BerniesBurgers.Core\obj\Debug\netcoreapp3.1\BerniesBurgers.Core.pdb
+D:\Coding\BerniesBurgers\BerniesBurgers\BerniesBurgers.Core\bin\Debug\netcoreapp3.1\BerniesBurgers.Core.deps.json
+D:\Coding\BerniesBurgers\BerniesBurgers\BerniesBurgers.Core\bin\Debug\netcoreapp3.1\BerniesBurgers.Core.dll
+D:\Coding\BerniesBurgers\BerniesBurgers\BerniesBurgers.Core\bin\Debug\netcoreapp3.1\BerniesBurgers.Core.pdb
+D:\Coding\BerniesBurgers\BerniesBurgers\BerniesBurgers.Core\obj\Debug\netcoreapp3.1\BerniesBurgers.Core.csprojAssemblyReference.cache
+D:\Coding\BerniesBurgers\BerniesBurgers\BerniesBurgers.Core\obj\Debug\netcoreapp3.1\BerniesBurgers.Core.AssemblyInfoInputs.cache
+D:\Coding\BerniesBurgers\BerniesBurgers\BerniesBurgers.Core\obj\Debug\netcoreapp3.1\BerniesBurgers.Core.AssemblyInfo.cs
+D:\Coding\BerniesBurgers\BerniesBurgers\BerniesBurgers.Core\obj\Debug\netcoreapp3.1\BerniesBurgers.Core.dll
+D:\Coding\BerniesBurgers\BerniesBurgers\BerniesBurgers.Core\obj\Debug\netcoreapp3.1\BerniesBurgers.Core.pdb

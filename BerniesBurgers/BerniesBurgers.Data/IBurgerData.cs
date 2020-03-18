@@ -29,7 +29,6 @@ namespace BerniesBurgers.Data
                     where string.IsNullOrEmpty(name) || b.Name.StartsWith(name)
                     orderby b.Name
                     select b;
-
             }
         }
     }
