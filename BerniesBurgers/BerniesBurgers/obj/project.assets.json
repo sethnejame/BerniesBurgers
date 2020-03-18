@@ -45,25 +45,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\seth\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet": {}
+    "C:\\Users\\sethn\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\seth\\Desktop\\Work\\BerniesBurgers\\BerniesBurgers\\BerniesBurgers\\BerniesBurgers.csproj",
+      "projectUniqueName": "D:\\Coding\\BerniesBurgers\\BerniesBurgers\\BerniesBurgers\\BerniesBurgers.csproj",
       "projectName": "BerniesBurgers",
-      "projectPath": "C:\\Users\\seth\\Desktop\\Work\\BerniesBurgers\\BerniesBurgers\\BerniesBurgers\\BerniesBurgers.csproj",
-      "packagesPath": "C:\\Users\\seth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\seth\\Desktop\\Work\\BerniesBurgers\\BerniesBurgers\\BerniesBurgers\\obj\\",
+      "projectPath": "D:\\Coding\\BerniesBurgers\\BerniesBurgers\\BerniesBurgers\\BerniesBurgers.csproj",
+      "packagesPath": "C:\\Users\\sethn\\.nuget\\packages\\",
+      "outputPath": "D:\\Coding\\BerniesBurgers\\BerniesBurgers\\BerniesBurgers\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet"
-      ],
       "configFilePaths": [
-        "C:\\Users\\seth\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\sethn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -75,8 +70,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\seth\\Desktop\\Work\\BerniesBurgers\\BerniesBurgers\\BerniesBurgers.Data\\BerniesBurgers.Data.csproj": {
-              "projectPath": "C:\\Users\\seth\\Desktop\\Work\\BerniesBurgers\\BerniesBurgers\\BerniesBurgers.Data\\BerniesBurgers.Data.csproj"
+            "D:\\Coding\\BerniesBurgers\\BerniesBurgers\\BerniesBurgers.Data\\BerniesBurgers.Data.csproj": {
+              "projectPath": "D:\\Coding\\BerniesBurgers\\BerniesBurgers\\BerniesBurgers.Data\\BerniesBurgers.Data.csproj"
             }
           }
         }

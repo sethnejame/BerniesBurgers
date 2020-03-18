@@ -2,14 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a8cb185-27dd-4800-a3bd-8b7d98bcdcd9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BerniesBurgers/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BerniesBurgers/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BerniesBurgers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BerniesBurgers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers.Core/obj/BerniesBurgers.Core.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers.Core/obj/BerniesBurgers.Core.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers.Core/obj/BerniesBurgers.Core.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers.Core/obj/BerniesBurgers.Core.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers.Core/obj/BerniesBurgers.Core.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers.Core/obj/BerniesBurgers.Core.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers.Core/obj/Debug/netcoreapp3.1/BerniesBurgers.Core.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers.Core/obj/Debug/netcoreapp3.1/BerniesBurgers.Core.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers.Core/obj/Debug/netcoreapp3.1/BerniesBurgers.Core.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers.Core/obj/Debug/netcoreapp3.1/BerniesBurgers.Core.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers.Core/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers.Core/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers.Core/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers.Core/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers.Data/IBurgerData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers.Data/IBurgerData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers.Data/obj/BerniesBurgers.Data.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers.Data/obj/BerniesBurgers.Data.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers.Data/obj/BerniesBurgers.Data.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers.Data/obj/BerniesBurgers.Data.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers.Data/obj/BerniesBurgers.Data.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers.Data/obj/BerniesBurgers.Data.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers.Data/obj/Debug/netcoreapp3.1/BerniesBurgers.Data.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers.Data/obj/Debug/netcoreapp3.1/BerniesBurgers.Data.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers.Data/obj/Debug/netcoreapp3.1/BerniesBurgers.Data.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers.Data/obj/Debug/netcoreapp3.1/BerniesBurgers.Data.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers.Data/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers.Data/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers.Data/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers.Data/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/List.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/List.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/BerniesBurgers.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/BerniesBurgers.Views.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/BerniesBurgers.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/bin/Debug/netcoreapp3.1/BerniesBurgers.Views.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.Views.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/List.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/List.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers/obj/BerniesBurgers.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/obj/BerniesBurgers.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers/obj/BerniesBurgers.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/obj/BerniesBurgers.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers/obj/BerniesBurgers.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/obj/BerniesBurgers.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/BerniesBurgers.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/Razor/Pages/Burgers/List.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/obj/Debug/netcoreapp3.1/Razor/Pages/Burgers/List.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,15 +52,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/List.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/List.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BerniesBurgers.Core/Burger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BerniesBurgers.Core/Toppings.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BerniesBurgers/Pages/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/List.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BerniesBurgers/appsettings.json" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BerniesBurgers.Data/IBurgerData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/List.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BerniesBurgers/Pages/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BerniesBurgers.Core/Burger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BerniesBurgers/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BerniesBurgers/Pages/Privacy.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BerniesBurgers.Data/IBurgerData.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -53,10 +71,10 @@
         <option value="$PROJECT_DIR$/BerniesBurgers.Core/Class1.cs" />
         <option value="$PROJECT_DIR$/BerniesBurgers.Core/Toppings.cs" />
         <option value="$PROJECT_DIR$/BerniesBurgers.Data/Class1.cs" />
-        <option value="$PROJECT_DIR$/BerniesBurgers.Data/IBurgerData.cs" />
         <option value="$PROJECT_DIR$/BerniesBurgers/Startup.cs" />
-        <option value="$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/List.cshtml.cs" />
         <option value="$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/List.cshtml" />
+        <option value="$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/List.cshtml.cs" />
+        <option value="$PROJECT_DIR$/BerniesBurgers.Data/IBurgerData.cs" />
       </list>
     </option>
   </component>
@@ -75,6 +93,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TWShift.3" value="true" />
+    <property name="TWShift.4" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
@@ -111,6 +130,18 @@
       </method>
     </configuration>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -123,6 +154,7 @@
       <updated>1584275140347</updated>
       <workItem from="1584275141871" duration="3335000" />
       <workItem from="1584337051951" duration="1301000" />
+      <workItem from="1584512359963" duration="498000" />
     </task>
     <servers />
   </component>

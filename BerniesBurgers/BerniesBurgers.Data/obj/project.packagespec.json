@@ -1,14 +1,11 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\seth\\Desktop\\Work\\BerniesBurgers\\BerniesBurgers\\BerniesBurgers.Data\\BerniesBurgers.Data.csproj",
+    "projectUniqueName": "D:\\Coding\\BerniesBurgers\\BerniesBurgers\\BerniesBurgers.Data\\BerniesBurgers.Data.csproj",
     "projectName": "BerniesBurgers.Data",
-    "projectPath": "C:\\Users\\seth\\Desktop\\Work\\BerniesBurgers\\BerniesBurgers\\BerniesBurgers.Data\\BerniesBurgers.Data.csproj",
-    "outputPath": "C:\\Users\\seth\\Desktop\\Work\\BerniesBurgers\\BerniesBurgers\\BerniesBurgers.Data\\obj\\",
+    "projectPath": "D:\\Coding\\BerniesBurgers\\BerniesBurgers\\BerniesBurgers.Data\\BerniesBurgers.Data.csproj",
+    "outputPath": "D:\\Coding\\BerniesBurgers\\BerniesBurgers\\BerniesBurgers.Data\\obj\\",
     "projectStyle": "PackageReference",
-    "fallbackFolders": [
-      "C:\\Microsoft\\Xamarin\\NuGet"
-    ],
     "originalTargetFrameworks": [
       "netcoreapp3.1"
     ],
@@ -19,8 +16,8 @@
     "frameworks": {
       "netcoreapp3.1": {
         "projectReferences": {
-          "C:\\Users\\seth\\Desktop\\Work\\BerniesBurgers\\BerniesBurgers\\BerniesBurgers.Core\\BerniesBurgers.Core.csproj": {
-            "projectPath": "C:\\Users\\seth\\Desktop\\Work\\BerniesBurgers\\BerniesBurgers\\BerniesBurgers.Core\\BerniesBurgers.Core.csproj"
+          "D:\\Coding\\BerniesBurgers\\BerniesBurgers\\BerniesBurgers.Core\\BerniesBurgers.Core.csproj": {
+            "projectPath": "D:\\Coding\\BerniesBurgers\\BerniesBurgers\\BerniesBurgers.Core\\BerniesBurgers.Core.csproj"
           }
         }
       }

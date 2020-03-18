@@ -6,7 +6,7 @@ namespace BerniesBurgers.Data
 {
     public interface IBurgerData
     {
-        IEnumerable<Burger> GetAll();
+        IEnumerable<Burger> GetBurgersByName(string name);
 
         public class InMemoryBurgerData : IBurgerData
         {
@@ -22,11 +22,14 @@ namespace BerniesBurgers.Data
                 };
 
             }
-            public IEnumerable<Burger> GetAll()
+
+            public IEnumerable<Burger> GetBurgersByName(string name = null)
             {
-                return from burger in burgers
-                    orderby burger.Name
-                    select burger;
+                return from b in burgers
+                    where string.IsNullOrEmpty(name) || b.Name.StartsWith(name)
+                    orderby b.Name
+                    select b;
+
             }
         }
     }
