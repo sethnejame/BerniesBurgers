@@ -7,9 +7,10 @@ namespace BerniesBurgers.Pages.Burgers
     {
         public Burger Burger { get; set; }
         
-        public void OnGet()
+        public void OnGet(int burgerId)
         { 
-            Burger = new Burger();  
+            Burger = new Burger();
+            Burger.Id = burgerId;
         }
     }
 }

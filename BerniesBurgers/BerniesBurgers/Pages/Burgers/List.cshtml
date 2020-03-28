@@ -24,6 +24,12 @@
             <td>@burger.Name</td>
             <td>@burger.Price</td>
             <td>@burger.Toppings</td>
+            <td><a class="btn btn-primary ml-2"
+                   asp-page="./Detail"
+                   asp-route-burgerId="@burger.Id">
+                    Details
+                </a>
+            </td>
         </tr>
     }
 </table>
