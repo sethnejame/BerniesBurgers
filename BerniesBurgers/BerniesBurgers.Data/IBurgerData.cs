@@ -7,6 +7,7 @@ namespace BerniesBurgers.Data
     public interface IBurgerData
     {
         IEnumerable<Burger> GetBurgersByName(string name);
+        Burger GetById(int id);
 
         public class InMemoryBurgerData : IBurgerData
         {
@@ -23,6 +24,11 @@ namespace BerniesBurgers.Data
 
             }
 
+            public Burger GetById(int id)
+            {
+                return burgers.SingleOrDefault(b => b.Id == id);
+            }
+            
             public IEnumerable<Burger> GetBurgersByName(string name = null)
             {
                 return from b in burgers
