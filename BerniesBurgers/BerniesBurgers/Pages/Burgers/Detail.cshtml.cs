@@ -8,8 +8,8 @@ namespace BerniesBurgers.Pages.Burgers
         public Burger Burger { get; set; }
         
         public void OnGet()
-        {
-            
+        { 
+            Burger = new Burger();  
         }
     }
 }
