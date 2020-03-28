@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a8cb185-27dd-4800-a3bd-8b7d98bcdcd9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BerniesBurgers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BerniesBurgers/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/Detail.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/Detail.cshtml.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/List.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/List.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/Detail.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/Detail.cshtml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +52,9 @@
         <option value="$PROJECT_DIR$/BerniesBurgers/Startup.cs" />
         <option value="$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/List.cshtml.cs" />
         <option value="$PROJECT_DIR$/BerniesBurgers.Data/IBurgerData.cs" />
-        <option value="$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/Detail.cshtml" />
         <option value="$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/Detail.cshtml.cs" />
         <option value="$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/List.cshtml" />
+        <option value="$PROJECT_DIR$/BerniesBurgers/Pages/Burgers/Detail.cshtml" />
       </list>
     </option>
   </component>
@@ -139,7 +137,7 @@
       <workItem from="1584512359963" duration="2210000" />
       <workItem from="1584717032782" duration="600000" />
       <workItem from="1584791108098" duration="2000" />
-      <workItem from="1585380409331" duration="2970000" />
+      <workItem from="1585380409331" duration="3327000" />
     </task>
     <servers />
   </component>
@@ -165,26 +163,26 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="914" height="279" key="GridCell.Tab.0.bottom" timestamp="1585384003785">
+    <state width="914" height="279" key="GridCell.Tab.0.bottom" timestamp="1585384352237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="902" height="265" key="GridCell.Tab.0.bottom/-1920.7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584338464524" />
-    <state width="914" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585384003785" />
-    <state width="914" height="279" key="GridCell.Tab.0.center" timestamp="1585384003785">
+    <state width="914" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585384352237" />
+    <state width="914" height="279" key="GridCell.Tab.0.center" timestamp="1585384352237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="902" height="265" key="GridCell.Tab.0.center/-1920.7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584338464524" />
-    <state width="914" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585384003785" />
-    <state width="914" height="279" key="GridCell.Tab.0.left" timestamp="1585384003785">
+    <state width="914" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585384352237" />
+    <state width="914" height="279" key="GridCell.Tab.0.left" timestamp="1585384352237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="902" height="265" key="GridCell.Tab.0.left/-1920.7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584338464524" />
-    <state width="914" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585384003785" />
-    <state width="914" height="279" key="GridCell.Tab.0.right" timestamp="1585384003785">
+    <state width="914" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585384352237" />
+    <state width="914" height="279" key="GridCell.Tab.0.right" timestamp="1585384352237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="902" height="265" key="GridCell.Tab.0.right/-1920.7.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584338464524" />
-    <state width="914" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585384003785" />
+    <state width="914" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585384352237" />
     <state x="904" y="185" key="Rider.ProjectTemplateDialog.Size" timestamp="1584296665508">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
