@@ -27,6 +27,8 @@
             <e p="Detail.cshtml.cs" t="Include" />
             <e p="List.cshtml" t="Include" />
             <e p="List.cshtml.cs" t="Include" />
+            <e p="NotFound.cshtml" t="Include" />
+            <e p="NotFound.cshtml.cs" t="Include" />
           </e>
           <e p="Error.cshtml" t="Include" />
           <e p="Error.cshtml.cs" t="Include" />

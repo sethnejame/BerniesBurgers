@@ -79,3 +79,4 @@ D:\Coding\BerniesBurgers\BerniesBurgers\BerniesBurgers\obj\Debug\netcoreapp3.1\B
 D:\Coding\BerniesBurgers\BerniesBurgers\BerniesBurgers\obj\Debug\netcoreapp3.1\BerniesBurgers.dll
 D:\Coding\BerniesBurgers\BerniesBurgers\BerniesBurgers\obj\Debug\netcoreapp3.1\BerniesBurgers.pdb
 D:\Coding\BerniesBurgers\BerniesBurgers\BerniesBurgers\obj\Debug\netcoreapp3.1\Razor\Pages\Burgers\Detail.cshtml.g.cs
+D:\Coding\BerniesBurgers\BerniesBurgers\BerniesBurgers\obj\Debug\netcoreapp3.1\Razor\Pages\Burgers\NotFound.cshtml.g.cs

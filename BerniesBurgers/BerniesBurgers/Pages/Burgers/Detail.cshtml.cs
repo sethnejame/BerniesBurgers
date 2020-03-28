@@ -1,5 +1,6 @@
 ﻿using BerniesBurgers.Core;
 using BerniesBurgers.Data;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace BerniesBurgers.Pages.Burgers
@@ -14,9 +15,12 @@ namespace BerniesBurgers.Pages.Burgers
             _burgerData = burgerData;
         }
         
-        public void OnGet(int burgerId)
+        public IActionResult OnGet(int burgerId)
         {
             Burger = _burgerData.GetById(burgerId);
+            if (Burger == null)
+                RedirectToPage("./NotFound");
+            return Page();
         }
     }
 }
